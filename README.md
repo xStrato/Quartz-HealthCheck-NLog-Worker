@@ -1,5 +1,5 @@
 # Quartz-HealthCheck-NLog-Worker
-This **Project Template** provides a project that integrates Quartz, Mediatr, NLog and Health Checks on top of WorkerService template
+This **Project Template** provides a .csproj that integrates Quartz, Mediatr, NLog and Health Checks on top of WorkerService template
 
 Support for:
 NET6.0
