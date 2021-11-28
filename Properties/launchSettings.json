@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "QuartzPlusWorker": {
+    "Quartz_HealthCheck_NLog_Worker": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "environmentVariables": {

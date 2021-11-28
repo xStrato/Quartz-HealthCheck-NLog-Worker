@@ -1,4 +1,4 @@
-namespace QuartzPlusWorker.Jobs;
+namespace Quartz_HealthCheck_NLog_Worker.Jobs;
 
 [DisallowConcurrentExecution]
 public class CsvReaderFakeJob : JobBase

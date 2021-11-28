@@ -1,4 +1,4 @@
-namespace QuartzPlusWorker.Extensions;
+namespace Quartz_HealthCheck_NLog_Worker.Extensions;
 public static class HealthCheckExtensions
 {
     public static WebApplication BuildHealthCheckApp(this IHost host,

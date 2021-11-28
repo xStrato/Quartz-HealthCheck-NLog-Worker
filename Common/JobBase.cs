@@ -1,4 +1,4 @@
-namespace QuartzPlusWorker.Common;
+namespace Quartz_HealthCheck_NLog_Worker.Common;
 public abstract class JobBase : IJob
 {
     protected ILogger<IJob> _logger { get; init; }

@@ -1,4 +1,4 @@
-namespace QuartzPlusWorker.HealthChecks;
+namespace Quartz_HealthCheck_NLog_Worker.HealthChecks;
 
 public class CsvReaderFakeJobHealthCheck : IHealthCheck, IRequestHandler<CsvReaderFakeJobHealthEvent, bool>
 {

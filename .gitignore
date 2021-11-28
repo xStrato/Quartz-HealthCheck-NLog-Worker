@@ -9,7 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-.vscode/
 .DS_Store
 obj/
 bin/

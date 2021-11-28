@@ -1,4 +1,4 @@
-namespace QuartzPlusWorker.Extensions;
+namespace Quartz_HealthCheck_NLog_Worker.Extensions;
 public static class QuartzExtensions
 {
     public static void AddJobAndTrigger<T>(this IServiceCollectionQuartzConfigurator quartz,

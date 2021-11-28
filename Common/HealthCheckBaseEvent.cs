@@ -1,5 +1,5 @@
 
-namespace QuartzPlusWorker.Common;
+namespace Quartz_HealthCheck_NLog_Worker.Common;
 public abstract class HealthCheckBaseEvent : IRequest<bool>
 {
     public bool IsHealthy { get; set; }
