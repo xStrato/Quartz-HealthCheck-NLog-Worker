@@ -5,7 +5,7 @@ Support for:
 NET6.0
 
 # Installation
-This package is also available on Nuget Packages: https://www.nuget.org/packages/Quartz-HealthCheck-NLog.Worker.Template/1.0.0
+This package is also available on Nuget Packages: https://www.nuget.org/packages/Quartz-HealthCheck-NLog.Worker.Template
 
 **Nuget .NET CLI**
 ```
