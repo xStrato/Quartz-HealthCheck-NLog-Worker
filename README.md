@@ -4,7 +4,7 @@ This **Project Template** provides a project that integrates Quartz, Mediatr, NL
 Support for:
 NET6.0
 
-# Instalation
+# Installation
 This package is also available on Nuget Packages: https://www.nuget.org/packages/Quartz-HealthCheck-NLog.Worker.Template/1.0.0
 
 **Nuget .NET CLI**
