@@ -9,7 +9,7 @@ This package is also available on Nuget Packages: https://www.nuget.org/packages
 
 **Nuget .NET CLI**
 ```
-dotnet new --install Quartz-HealthCheck-NLog.Worker.Template::1.0.0
+dotnet new --install Quartz-HealthCheck-NLog.Worker.Template
 ```
 
 **New Project cmd**
