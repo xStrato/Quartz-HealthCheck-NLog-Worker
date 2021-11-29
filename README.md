@@ -14,5 +14,5 @@ dotnet new --install Quartz-HealthCheck-NLog.Worker.Template::1.0.0
 
 **New Project cmd**
 ```
-dotnet new qh-worker -o "MyProject"
+dotnet new qh-worker -o "MyProjectName"
 ```
