@@ -1,5 +1,5 @@
 # Quartz-HealthCheck-NLog-Worker
-This **Project Template** provides a .csproj that integrates Quartz, Mediatr, NLog and Health Checks on top of WorkerService template
+This **Template** provides a project that integrates Quartz, Mediatr, NLog and Health Checks on top of WorkerService template
 
 Support for:
 NET6.0
@@ -10,4 +10,9 @@ This package is also available on Nuget Packages: https://www.nuget.org/packages
 **Nuget .NET CLI**
 ```
 dotnet new --install Quartz-HealthCheck-NLog.Worker.Template::1.0.0
+```
+
+**New Project cmd**
+```
+dotnet new qh-worker -o "MyProject"
 ```
