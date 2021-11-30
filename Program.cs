@@ -31,4 +31,4 @@ IHost host = Host.CreateDefaultBuilder(args)
     .Build();
 
 var healthApp = host.BuildHealthCheckApp(Configuration, HostingEnvironment);
-Task.WaitAll(healthApp?.RunAsync() ?? Task.CompletedTask, host.RunAsync());
+Task.WaitAll(host.RunAsync(), healthApp?.RunAsync() ?? Task.CompletedTask);
