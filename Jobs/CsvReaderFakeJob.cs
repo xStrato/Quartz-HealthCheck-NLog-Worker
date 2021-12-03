@@ -1,6 +1,5 @@
 namespace Quartz_HealthCheck_NLog_Worker.Jobs;
 
-[DisallowConcurrentExecution]
 public class CsvReaderFakeJob : JobBase
 {
     public CsvReaderFakeJob(ILogger<CsvReaderFakeJob> logger, IMediator mediator) : base(logger, mediator) { }

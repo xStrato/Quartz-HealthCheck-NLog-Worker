@@ -1,4 +1,6 @@
 namespace Quartz_HealthCheck_NLog_Worker.Common;
+
+[DisallowConcurrentExecution]
 public abstract class JobBase : IJob
 {
     protected ILogger<IJob> _logger { get; init; }
